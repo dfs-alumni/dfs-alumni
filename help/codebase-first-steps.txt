@@ -1,0 +1,1 @@
+Mac + Firefox: use F1 to Command Palette. Cmd+Shift+P goes to anon tab.
